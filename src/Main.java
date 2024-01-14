@@ -6,5 +6,6 @@ public class Main {
         branchTest2.printBranchTest2();
         BranchTest3 branchTest3 = new BranchTest3();
         branchTest3.printBranchTest3();
+        branchTest3.printBranchTest4();
     }
 }
