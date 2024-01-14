@@ -7,4 +7,9 @@ public class BranchTest2 {
         System.out.println("printBranchTest2");
     }
 
+    void printBranchTest3 () {
+        System.out.println("printBranchTest3");
+    }
+
+
 }
