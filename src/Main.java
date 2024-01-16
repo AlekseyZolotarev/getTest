@@ -8,5 +8,7 @@ public class Main {
         BranchTest2 branchTest2 = new BranchTest2();
         branchTest2.printBranchTest2();
         branchTest2.printBranchTest3();
+        BranchTestLinux branchTestLinux = new BranchTestLinux();
+        branchTestLinux.printBranchTestLinux();
     }
 }
